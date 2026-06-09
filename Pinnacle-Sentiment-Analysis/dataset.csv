@@ -1,0 +1,11 @@
+review,sentiment
+"This product is amazing",positive
+"I love this phone",positive
+"Excellent quality",positive
+"Very bad experience",negative
+"Waste of money",negative
+"Terrible service",negative
+"It is okay",neutral
+"Average performance",neutral
+"Nothing special",neutral
+"Good value for money",positive
